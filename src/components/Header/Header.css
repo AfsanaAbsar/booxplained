@@ -1,0 +1,25 @@
+.header nav a {
+    text-decoration: none;
+    margin: 10px;
+    border-bottom: 2px solid #d87a91;
+    color: #08085C;
+    font-weight: 500;
+
+}
+
+/* .logo {
+    width: 200px;
+    height: 200px;
+
+} */
+
+.header {
+    display: flex;
+    /* grid-template-columns: 1fr 1fr; */
+    /* align-items: center; */
+    justify-content: center;
+    margin-top: 50px;
+
+
+
+}

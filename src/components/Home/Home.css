@@ -1,0 +1,47 @@
+.home-banner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+    margin: 50px;
+
+}
+
+.first-title {
+    color: #08085C;
+}
+
+.second-title {
+    color: #F9557E;
+}
+
+.banner-section {
+    border-left: 2px solid #08085C;
+    padding-left: 20px;
+}
+
+.explore-btn {
+    border: none;
+    background-image: linear-gradient(to right, #F9557E 0%, #08085C 51%, #F9557E 100%);
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 5px;
+    display: block;
+    margin-top: 30px;
+}
+
+.explore-btn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner-photo {
+    width: 100%;
+}

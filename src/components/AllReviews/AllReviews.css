@@ -1,0 +1,11 @@
+.review-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.review-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
