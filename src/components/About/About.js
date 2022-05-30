@@ -5,7 +5,7 @@ const About = () => {
         <div className='about-bg'>
             <div className='about'>
                 <div>
-                    <h1 className='about-title-first'>Who Are We</h1>
+                    <h1 className='about-title-first'>Who We Are</h1>
                     <p>We are a book lover community. The purpose of building this website is to encourage people to read more books.People can submit their review on any book in our website.It helps to introduce more books to people.People become eager to read books with the help of reviews. The writers also can improve their quality with the help of the public review.We wish people will visit our website and explore more and more books.</p>
                     <button className='home-page-btn'>Explore More  </button>
                 </div>

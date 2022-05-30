@@ -12,7 +12,7 @@ const AllReviews = (props) => {
                 <h2>{name}</h2>
                 <h3>Book: {book}</h3>
                 <h5>By {writer}</h5>
-                <p className='star-rating'><Ratings className='star-rating' ratings={ratings}></Ratings></p>
+                <div className='star-rating'><Ratings className='star-rating' ratings={ratings}></Ratings></div>
                 <p><FontAwesomeIcon className='icon' icon={faQuoteLeft}></FontAwesomeIcon> {review} <FontAwesomeIcon className='icon' icon={faQuoteRight}></FontAwesomeIcon></p>
             </div>
         </div>

@@ -5,7 +5,7 @@ import useChart from '../../hooks/useChart';
 const MyScatterChart = () => {
     const [chart, setChart] = useChart();
     return (
-        <ScatterChart width={730} height={250}
+        <ScatterChart width={600} height={250}
             margin={{ top: 20, right: 20, bottom: 10, left: 10 }}>
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="month" />

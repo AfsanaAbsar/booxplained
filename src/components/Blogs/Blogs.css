@@ -1,4 +1,11 @@
 .ques-ans {
+    margin: 50px 200px;
+}
 
-    margin: 0 200px;
+@media only screen and (max-width: 800px) {
+    .ques-ans {
+        display: grid;
+        grid: 1fr;
+        margin: 0;
+    }
 }

@@ -8,8 +8,9 @@ const Dashboard = () => {
     return (
         <div >
             <div className='dashboard'>
-                <h2>A Line Chart of visitors and reviews in our site</h2>
+
                 <MyLineChart></MyLineChart>
+                <h2>A Line Chart of visitors and reviews in our site</h2>
             </div>
 
             <div className='dashboard'>
@@ -17,8 +18,9 @@ const Dashboard = () => {
                 <h2>A Bar Chart of visitors and reviews in our site</h2>
             </div>
             <div className='dashboard'>
-                <h2>A Line Chart of visitors and reviews in our site</h2>
+
                 <MyScatterChart></MyScatterChart>
+                <h2>A Line Chart of visitors and reviews in our site</h2>
             </div>
         </div>
     );

@@ -11,7 +11,7 @@ const MyBarChart = () => {
 
     return (
 
-        <BarChart width={730} height={250} data={chart}>
+        <BarChart width={600} height={250} data={chart}>
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="month" />
             <YAxis />

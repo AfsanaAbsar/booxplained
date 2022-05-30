@@ -13,7 +13,7 @@ const Home = () => {
                         <h1 className='first-title'>READ BOOKS</h1>
                         <h1 className='second-title'>BE A BIBLIOMANIAC</h1>
                     </div>
-                    <p>Welcome to BooXplained.It is a book review website that hwlps people to know about books.You can choose your favourite books with the help of reviews.We encourage you to write about books that you already read and help our community to grow!!! </p>
+                    <p>Welcome to BooXplained.It is a book review website that helps people to know about books.You can choose your favourite books with the help of reviews.We encourage you to write about books that you already read and help our community to grow!!! </p>
 
                     <button className='home-page-btn'>Explore More</button>
                 </div>

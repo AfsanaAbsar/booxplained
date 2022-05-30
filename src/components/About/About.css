@@ -1,21 +1,32 @@
-.about-bg {}
-
 .about {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 50px;
+    margin: 50px;
+
 }
 
 .about img {
     width: 40%;
-    margin: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 50px;
 }
 
-.about-title-first {
-    color: #18188a;
-}
 
-.about-title-second {
-    color: #be1f47;
+
+@media only screen and (max-width: 800px) {
+    .about {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 0;
+        justify-content: center;
+        text-align: center;
+
+    }
+
+    .about img {
+        width: 100%;
+        padding: 0;
+
+    }
 }

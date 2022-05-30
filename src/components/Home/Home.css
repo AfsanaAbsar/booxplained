@@ -61,3 +61,24 @@
     margin-bottom: 20px;
 
 }
+
+@media only screen and (max-width: 800px) {
+    .home-banner {
+        display: grid;
+        grid-template-columns: 1fr;
+
+        justify-content: center;
+        margin: 50px;
+
+    }
+
+    .home-review-card {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 20px;
+
+    }
+}
