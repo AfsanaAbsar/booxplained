@@ -20,7 +20,7 @@
     padding-left: 20px;
 }
 
-.explore-btn {
+.home-page-btn {
     border: none;
     background-image: linear-gradient(to right, #F9557E 0%, #08085C 51%, #F9557E 100%);
     padding: 15px 45px;
@@ -31,17 +31,33 @@
     color: white;
     box-shadow: 0 0 20px #eee;
     border-radius: 5px;
-    display: block;
+
     margin-top: 30px;
 }
 
-.explore-btn:hover {
+.home-page-btn:hover {
     background-position: right center;
     /* change the direction of the change here */
     color: #fff;
     text-decoration: none;
 }
 
+.see-review {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
 .banner-photo {
     width: 100%;
+}
+
+.home-review-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+
 }

@@ -2,63 +2,81 @@
     {
         "id": "001",
         "name": "Ruby Sia",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
-        "ratings": 4,
+        "book": "The Alchemist",
+        "writer": "Paulo Coelho",
+        "review": "The Alchemist is a fantastic book and the storytelling is beautiful. The choice of words are impeccable, full of wisdom and philosophy . I totally loved it. The story is very enchanting and bursts with optimism which I think is very important in our lives.",
+        "ratings": 5,
         "img": "https://i.ibb.co/7yLsQw1/per1.jpg"
     },
     {
         "id": "002",
         "name": "Nabid Anam",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "book": "The Diary of Anne Frank",
+        "writer": "Anne Frank",
+        "review": "It's an exceptional fantabulous story of an young girl named Anne Frank we can understand her struggle in a very young age who have lost her life in a gas chamber were many others broke their breathe. I know how it feels if I was in her shoes but I wish I could meet her for her great work, before her death she wrote a diary which at first she thought no one would have an interest in reading her diary but it became successful story that everyone around the world knows about her experience in the time when Nazis used to rule.",
         "ratings": 4,
         "img": "https://i.ibb.co/rdQc565/per2.jpg"
     },
     {
         "id": "003",
         "name": "Rita Sharma",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
-        "ratings": 4,
+        "book": "Lord of the Rings",
+        "writer": "J.R.R. Tolkien",
+        "review": "This trilogy was amazing. Unfortunately I saw the movies first so when I read the book everything I imagined was stuff I had already seen in the movies so sometimes I wish I could've have read the books first and see what I would have imagined the environments",
+        "ratings": 5,
         "img": "https://i.ibb.co/WKF5sC5/per3.jpg"
     },
     {
         "id": "004",
         "name": "Crassy Lia",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
-        "ratings": 4,
+        "book": "Pride and Prejudice",
+        "writer": "Jane Austen",
+        "review": "Undoubtedly The best book i have ever read !! Pride and prejudice is a book that is must read for every person.starting of the  some pages it must be hard to understand bcoz of different character but the beauty of",
+        "ratings": 5,
         "img": "https://i.ibb.co/0GZK0KL/per4.jpg"
     },
     {
         "id": "005",
         "name": "Ibram Rafa",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "book": "The Book Thief",
+        "writer": "Markus Zusak",
+        "review": "This is a tragic and a very beautiful story, in this book we see that the death itself is narrating the story as it follows a girl ' Liesel Meminger' during world war 2 in Germany . she lost her brother and steals her very first book during the journey towards her foster parents.",
         "ratings": 4,
         "img": "https://i.ibb.co/hRzv0T6/per5.jpg"
     },
     {
         "id": "006",
         "name": "Ankita Ayer",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "book": "Harry Potter and the Philosopher's Stone",
+        "writer": " J.K. Rowling",
+        "review": "Harry Potter and the Philosopher 's Stone is the entry to a world of fabulous fantasy and magic that any kid can dream of. The whole book 's plot is top-notch, taking the readers along the journey with a orphaned boy in a lonely world to a whole new spectacular universe, a fabulous wizarding school, one filled with adventures and magic, where he is to thrive for the rest of his teenage years with new-found friends, have spats with rivals, go down for a cup of tea to the gamekeeper's, play an awesome sport on broomsticks and fighting an evil, bloodthirsty wizard who is taking over the world while simultaneously saving the Philosopher 's Stone, ",
         "ratings": 4,
         "img": "https://i.ibb.co/n1k4c2w/per6.jpg"
     },
     {
         "id": "007",
         "name": "Roma Raudriguez",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
-        "ratings": 4,
+        "book": "To Kill a Mockingbird",
+        "writer": "Harper Lee",
+        "review": "There are numerous parallel story lines in this story told through the perspective of our six year old protagonist, Scout. The most important being the fascination with social recluse,",
+        "ratings": 5,
         "img": "https://i.ibb.co/4gXyJnX/per7.jpg"
     },
     {
         "id": "008",
         "name": "Ross Richard",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
-        "ratings": 4,
+        "book": "The Four Winds",
+        "writer": "Kristin Hannah",
+        "review": "This book was amazing and quite frankly I think it should be used in the educational department. This book has taught me so much in the amount of almost 500 pages. I think it is truly a book that can help others learn with a sensitivity they haven't held before.",
+        "ratings": 5,
         "img": "https://i.ibb.co/VJ3HfDx/per8.jpg"
     },
     {
         "id": "009",
         "name": "Simu Naser",
-        "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "book": "The Lincoln Highway",
+        "writer": "Amor Towles",
+        "review": "I loved every page of this book. It's an adventure story with roots in Shakespeare and Mythology  and if you think you'd be put off by that, DON'T BE! It's wonderful",
         "ratings": 4,
         "img": "https://i.ibb.co/SBSGL22/per9.jpg"
     }

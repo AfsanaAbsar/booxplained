@@ -17,7 +17,8 @@ const MyBarChart = () => {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Bar dataKey="visitor" fill="#8884d8" />
+            <Bar dataKey="visitor" fill="#F9557E" />
+            <Bar dataKey="reviews" fill="#08085C" />
 
         </BarChart>
 

@@ -1,0 +1,21 @@
+.about-bg {}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.about img {
+    width: 40%;
+    margin: 50px;
+}
+
+.about-title-first {
+    color: #18188a;
+}
+
+.about-title-second {
+    color: #be1f47;
+}

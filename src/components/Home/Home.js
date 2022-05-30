@@ -15,14 +15,14 @@ const Home = () => {
                     </div>
                     <p>Welcome to BooXplained.It is a book review website that hwlps people to know about books.You can choose your favourite books with the help of reviews.We encourage you to write about books that you already read and help our community to grow!!! </p>
 
-                    <button className='explore-btn'>Explore More</button>
+                    <button className='home-page-btn'>Explore More</button>
                 </div>
                 <div>
                     <img className='banner-photo' src="https://i.ibb.co/pjzWDbd/bannerphoto.webp" alt="" />
                 </div>
             </div>
 
-            <div>
+            <div className='home-review-card'>
                 {
                     reviews.slice(0, 3).map(review => <AllReviews
                         key={review.id}
@@ -30,8 +30,11 @@ const Home = () => {
                     ></AllReviews>)
                 }
 
+
+            </div>
+            <div className='see-review'>
                 <Link to='/reviews'>
-                    <button className='review-order-btn'>see all reviews  </button>
+                    <button className='home-page-btn'>see all reviews  </button>
                 </Link>
             </div>
         </div>

@@ -1,11 +1,28 @@
-.review-card {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+.all-review-card {
+    text-align: center;
+}
+
+.all-review-card h2,
+h3,
+h5 {
+    color: #08085C;
+
 }
 
 .review-img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    border: 4px solid #F9557E;
+}
+
+
+
+.star-rating {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    color: #F9557E;
 }

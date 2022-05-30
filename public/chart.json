@@ -1,32 +1,32 @@
 [
     {
         "month": "Mar",
-        "visitor": 100000,
-        "reviews": 241
+        "visitor": 10000,
+        "reviews": 700
     },
     {
         "month": "Apr",
-        "visitor": 80000,
-        "reviews": 241
+        "visitor": 3000,
+        "reviews": 1200
     },
     {
         "month": "May",
-        "visitor": 70000,
-        "reviews": 241
+        "visitor": 5000,
+        "reviews": 1800
     },
     {
         "month": "Jun",
-        "visitor": 90000,
-        "reviews": 241
+        "visitor": 9000,
+        "reviews": 5400
     },
     {
         "month": "Jul",
-        "visitor": 40000,
-        "reviews": 241
+        "visitor": 4000,
+        "reviews": 1500
     },
     {
         "month": "Aug",
-        "visitor": 90000,
-        "reviews": 241
+        "visitor": 6000,
+        "reviews": 3300
     }
 ]

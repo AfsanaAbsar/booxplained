@@ -6,11 +6,20 @@ import MyScatterChart from '../MyScatterChart/MyScatterChart';
 import './Dashboard.css'
 const Dashboard = () => {
     return (
-        <div>
-            <MyLineChart></MyLineChart>
-            <MyBarChart></MyBarChart>
+        <div >
+            <div className='dashboard'>
+                <h2>A Line Chart of visitors and reviews in our site</h2>
+                <MyLineChart></MyLineChart>
+            </div>
 
-            <MyScatterChart></MyScatterChart>
+            <div className='dashboard'>
+                <MyBarChart></MyBarChart>
+                <h2>A Bar Chart of visitors and reviews in our site</h2>
+            </div>
+            <div className='dashboard'>
+                <h2>A Line Chart of visitors and reviews in our site</h2>
+                <MyScatterChart></MyScatterChart>
+            </div>
         </div>
     );
 };

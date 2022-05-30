@@ -5,7 +5,7 @@ import './Reviews.css'
 const Reviews = () => {
     const [reviews, setReviews] = useReviews();
     return (
-        <div>
+        <div className='review-card'>
             {
                 reviews.map(review => <AllReviews
                     key={review.id}

@@ -1,5 +1,5 @@
 import React from 'react';
-import { CartesianGrid, Legend, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { CartesianGrid, Legend, Scatter, ScatterChart, Tooltip, XAxis, YAxis, ZAxis } from 'recharts';
 import useChart from '../../hooks/useChart';
 
 const MyScatterChart = () => {
@@ -10,10 +10,14 @@ const MyScatterChart = () => {
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="month" />
             <YAxis dataKey="visitor" />
+            <ZAxis dataKey="reviews" />
+
+
 
             <Tooltip cursor={{ strokeDasharray: '3 3' }} />
             <Legend />
-            <Scatter name="A school" data={chart} fill="#8884d8" />
+            <Scatter name="Visitors and Reviews" data={chart} fill="#08085C" />
+
 
         </ScatterChart>
     );
