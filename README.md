@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Name of the project
 
-This is [BookXplained](https://bookxplained.netlify.app/)
+This is [BookXplained](https://booxplained.netlify.app/)
 
 ## Functionality of the website
 
