@@ -1,6 +1,19 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Name of the project
+
+This is [BookXplained](https://bookxplained.netlify.app/)
+
+## Functionality of the website
+
+* You can review a book that you read
+* you can know about books by reading reviews
+## packages used in this website
+* [FontAwesome](https://fontawesome.com/)
+* [react Router](https://reactrouter.com/)
+* [react ratings](https://www.npmjs.com/package/react-rating)
+* [Recharts](https://recharts.org/en-US/)
 
 ## Available Scripts
 
