@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReviews from '../../hooks/useReviews';
 import AllReviews from '../AllReviews/AllReviews';
 import './Home.css'
@@ -28,6 +29,10 @@ const Home = () => {
                         review={review}
                     ></AllReviews>)
                 }
+
+                <Link to='/reviews'>
+                    <button className='review-order-btn'>see all reviews  </button>
+                </Link>
             </div>
         </div>
     );
