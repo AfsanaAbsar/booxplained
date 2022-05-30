@@ -8,6 +8,14 @@
 
 }
 
+.header nav a:hover {
+
+    border-bottom: 2px solid #08085C;
+    color: #cc4969;
+
+
+}
+
 
 
 .header {
