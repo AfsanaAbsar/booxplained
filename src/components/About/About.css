@@ -12,6 +12,14 @@
     padding: 50px;
 }
 
+.about-title-first {
+    color: #08085C;
+}
+
+.about-title-second {
+    color: #cc4969;
+}
+
 
 
 @media only screen and (max-width: 800px) {

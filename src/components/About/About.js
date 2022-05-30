@@ -16,7 +16,7 @@ const About = () => {
                 <img src="https://i.ibb.co/TWfJdMs/about2.png" alt="" />
                 <div>
                     <h1 className='about-title-second'>What Our Mission</h1>
-                    <p>As we have started this website as a simple book review website.But we havw plans to launch new features in the website,We are also planninf to make this website as book selling website.So that people can buy any book instantly after reading a review. We are also planning to make features for exzchanging books from one to another.We think this will be a great move and Reading books become easier for everyone.</p>
+                    <p>As we have started this website as a simple book review website.But we have plans to launch new features in the website,We are also planninf to make this website as book selling website.So that people can buy any book instantly after reading a review. We are also planning to make features for exzchanging books from one to another.We think this will be a great move and Reading books become easier for everyone.</p>
                     <button className='home-page-btn'>Explore More  </button>
                 </div>
             </div>
